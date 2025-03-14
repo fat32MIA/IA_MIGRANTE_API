@@ -1,0 +1,52 @@
+{
+    "Visa": [
+        {
+            "question": "¿Cuáles son los tipos de visas disponibles en EE.UU.?",
+            "answer": "Existen múltiples tipos de visas, incluyendo:\n- **Visa de turista (B1/B2)**: Para turismo, negocios o tratamiento médico.\n- **Visa de estudiante (F1, M1, J1)**: Para estudios académicos y programas de intercambio.\n- **Visa de trabajo (H-1B, L-1, O-1, TN)**: Para profesionales altamente calificados y transferencias dentro de empresas.\n- **Visa de inversión (E-2)**: Para inversionistas en EE.UU.\n- **Visa de prometido (K-1)**: Para compromisos con ciudadanos estadounidenses."
+        },
+        {
+            "question": "¿Qué requisitos debo cumplir para solicitar una visa de trabajo H-1B?",
+            "answer": "Para obtener una visa H-1B, debe cumplir con los siguientes requisitos:\n1. Tener una oferta de empleo de un empleador estadounidense.\n2. El puesto debe requerir un grado universitario o equivalente en un campo especializado.\n3. El empleador debe presentar la solicitud de Certificación Laboral (LCA) ante el Departamento de Trabajo.\n4. USCIS debe aprobar la petición antes de que el beneficiario pueda solicitar la visa en el consulado."
+        }
+    ],
+    "Asilo": [
+        {
+            "question": "¿Cómo puedo solicitar asilo en EE.UU.?",
+            "answer": "Para solicitar asilo en EE.UU., debe seguir estos pasos:\n1. Presentar el formulario **I-589** ante USCIS dentro de un año de su llegada.\n2. Demostrar temor creíble de persecución en su país de origen.\n3. Asistir a una entrevista de asilo con un oficial de USCIS.\n4. Si se le niega el asilo, puede apelar ante un juez de inmigración."
+        },
+        {
+            "question": "¿Cuánto tarda un caso de asilo en procesarse?",
+            "answer": "El tiempo de procesamiento varía según la carga de trabajo de USCIS y el tribunal de inmigración. En promedio:\n- **Casos afirmativos** (solicitados dentro del año de ingreso): 6 meses a 2 años.\n- **Casos defensivos** (en proceso de deportación): 2 a 5 años debido a la acumulación de casos."
+        }
+    ],
+    "Residencia Permanente": [
+        {
+            "question": "¿Cuáles son las formas de obtener una Green Card?",
+            "answer": "Se puede obtener la residencia permanente en EE.UU. de varias maneras:\n- **Por familia**: Si un familiar ciudadano o residente presenta una petición I-130.\n- **Por empleo**: A través de una oferta laboral y aprobación del formulario I-140.\n- **Por asilo o refugio**: Después de un año de ser aprobado como asilado/refugiado.\n- **Por la Lotería de Visas**: Si resulta seleccionado en el programa de diversidad.\n- **Por ajuste de estatus**: Si ya está en EE.UU. con una visa elegible."
+        },
+        {
+            "question": "¿Cuánto cuesta el proceso de residencia permanente?",
+            "answer": "Los costos varían según la categoría, pero los principales incluyen:\n- **Tarifa de ajuste de estatus** (Formulario I-485): $1,225 (incluye datos biométricos).\n- **Petición de familiar (I-130)**: $535.\n- **Proceso consular**: Puede incluir tarifas adicionales por exámenes médicos y entrevistas."
+        }
+    ],
+    "Ciudadanía": [
+        {
+            "question": "¿Cómo puedo solicitar la ciudadanía estadounidense?",
+            "answer": "Para naturalizarse como ciudadano estadounidense, debe cumplir con los siguientes requisitos:\n- Haber sido **residente permanente por al menos 5 años** (o 3 años si está casado con un ciudadano).\n- Tener **buen carácter moral** y no haber cometido delitos graves.\n- Aprobar un examen de inglés y civismo.\n- Completar el formulario **N-400** y pagar la tarifa de solicitud ($640 más $85 de biométricos)."
+        },
+        {
+            "question": "¿Qué sucede si fallo el examen de ciudadanía?",
+            "answer": "Si no aprueba el examen de ciudadanía en la primera oportunidad:\n- Tendrá una segunda oportunidad para tomarlo en un plazo de 60 a 90 días.\n- Si falla nuevamente, se le denegará la solicitud, pero podrá volver a aplicar."
+        }
+    ],
+    "Deportación y Remoción": [
+        {
+            "question": "¿Cuáles son las principales razones de deportación en EE.UU.?",
+            "answer": "Una persona puede ser deportada por varias razones, incluyendo:\n- **Entrada ilegal** sin inspección por parte de un oficial de inmigración.\n- **Violación de términos de visa**, como quedarse más tiempo del permitido.\n- **Condenas criminales**, incluyendo delitos graves o tráfico de drogas.\n- **Fraude migratorio**, como falsificación de documentos o matrimonios fraudulentos."
+        },
+        {
+            "question": "¿Puedo apelar una orden de deportación?",
+            "answer": "Sí, puede apelar una orden de deportación ante la Junta de Apelaciones de Inmigración (BIA). Pasos a seguir:\n1. Presentar una **Moción para Reabrir** si hay nueva evidencia.\n2. Solicitar un **Perdón (Waiver)** si es elegible.\n3. Presentar una **apelación formal ante la BIA** dentro de los 30 días posteriores a la decisión."
+        }
+    ]
+}
